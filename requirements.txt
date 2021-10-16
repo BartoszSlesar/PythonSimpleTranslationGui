@@ -1,0 +1,5 @@
+SpeechRecognition
+wheel
+setuptools
+pocketsphinx
+PyAudio
